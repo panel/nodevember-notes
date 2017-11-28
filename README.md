@@ -16,3 +16,4 @@
 - [10 kb or bust](./tuesday/10kb.md)
 - [VS Code Can Do That?](./tuesday/code.md)
 - [FizzGood](./tuesday/fsgd.md)
+- [Why choose React?](http://www.benmvp.com/slides/2017/nodevember/why-react.html#/)
