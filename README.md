@@ -10,3 +10,6 @@
 - [Express Yourself](./monday/ts.md)
 - [Kubernetes @ npm](./monday/kubernetes.md)
 - [the new npm](./monday/npm.md)
+
+## tuesday
+- [It's Not Dark Magic](./tuesday/stylesheets.md)
