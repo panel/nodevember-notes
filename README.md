@@ -14,3 +14,5 @@
 ## tuesday
 - [It's Not Dark Magic](./tuesday/stylesheets.md)
 - [10 kb or bust](./tuesday/10kb.md)
+- [VS Code Can Do That?](./tuesday/code.md)
+- [FizzGood](./tuesday/fsgd.md)
